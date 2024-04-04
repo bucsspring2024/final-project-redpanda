@@ -7,13 +7,13 @@
 
 ## Team Members
 
-<< List team member names >>
+Eryn Asante-Wiredu
 
 ***
 
 ## Project Description
 
-<< Give an overview of your project >>
+App that help user take care of plants by giving user time and enviornment based notifications for the specific plants that they have added.
 
 ***    
 
@@ -31,11 +31,11 @@
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. start menu
+2. additon of specifc plants and their info
+3. app rpovides notifications based on whether and time data 
+4. user can add their own notification schedules
+5. working weather widget
 
 ### Classes
 
